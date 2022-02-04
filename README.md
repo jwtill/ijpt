@@ -1,6 +1,6 @@
 # <PROJECT TITLE>
 
-#### By [Will W.](https://wjwat.com/)
+#### By [Josh Tillinghast]
 
 #### <SHORT DESCRIPTION>
 
@@ -35,5 +35,5 @@ This is a longer description.
 
 MIT License
 
-Copyright (c) 2022 Will W.
+Copyright (c) 2022 Josh Tillinghast
 
