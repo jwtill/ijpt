@@ -6,7 +6,13 @@
 
 ## :computer: Technologies Used
 
-* List of technologies
+* jQuery
+Bootstrap
+Popper.js
+Webpack
+ESLint
+Jest
+Babel
 
 ## :memo: Description
 
